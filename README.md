@@ -1,2 +1,1 @@
-
-description: <img width="768" height="1376" alt="Aurora" src="https://github.com/user-attachments/assets/0e09b1e2-c367-4833-acff-85fe7b8f7383" />
+description : <img width="768" height="1376" alt="Aurora (1)" src="https://github.com/user-attachments/assets/adf37e7c-72ee-4fbf-aae5-7099e9592619" />
